@@ -2,6 +2,7 @@
 A simple Mass SFX recoloring/hue changing tool meant to be used with WitchyBND's FXR XML formatter. Can be used to create new variations of effects like shown. (Inspired by Amir's DS3 tool that did the same thing way back)
 
 INSTRUCTIONS:
+
 • Unpack your .fxr files using WitchyBND, which will result in .xml files
 
 • Place your .xml files in the same directory as the tool
